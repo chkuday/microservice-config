@@ -7,6 +7,4 @@ eureka:
   instance:
     preferIpAddress: true
 
- spring:
-   application
-      name: Config-Server
+
